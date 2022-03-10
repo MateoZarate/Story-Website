@@ -86,6 +86,7 @@ img{
   }
 }
 body{
-  margin: 0;
-  height: 100%;
+  float:unset;
+  max-width:100000px;
+  height: auto;
 }
