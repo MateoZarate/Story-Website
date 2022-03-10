@@ -85,6 +85,6 @@ img{
   }
 }
 body{
-  margin-top:50%;
-  margin-bottom:50%;
+  margin: 0;
+  height: 100%;
 }
