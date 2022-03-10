@@ -84,3 +84,7 @@ img{
     text-shadow: 0 0 20px #fff, 0 0 30px #4dff65, 0 0 40px #4dff65, 0 0 50px #4dff65, 0 0 60px #4dff65, 0 0 70px #4dff65, 0 0 80px #4dff65;
   }
 }
+body{
+  margin-top:50%;
+  margin-bottom:50%;
+}
